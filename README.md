@@ -19,8 +19,11 @@ The projects are organized by topic to reflect the learning trajectory:
     *   Categorical Encoding (Label & One-Hot Encoding)
 *   **15: Specialized Projects**
     *   Natural Language Processing (NLP) Basics
-    *   Customer Churn Prediction (End-to-End Case Study)
-
+    *   Customer Churn Prediction (End-to-End Case Study)     
+*   **16: Time Series Forecasting**
+    *   Financial Data Fetching (yfinance API)
+    *   Time Series Prediction with Facebook Prophet      
+ 
 ## Tech Stack
 
 *   **Language:** Python
