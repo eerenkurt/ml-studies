@@ -22,7 +22,12 @@ The projects are organized by topic to reflect the learning trajectory:
     *   Customer Churn Prediction (End-to-End Case Study)     
 *   **16: Time Series Forecasting**
     *   Financial Data Fetching (yfinance API)
-    *   Time Series Prediction with Facebook Prophet      
+    *   Time Series Prediction with Facebook Prophet
+ 
+*   **17: Model Validation & Evaluation**
+    *   Airlines Booking Baggage Prediction
+    *   Cross-Validation
+    *   Performance Metrics  
  
 ## Tech Stack
 
