@@ -24,16 +24,16 @@ The projects are organized by topic to reflect the learning trajectory:
     *   Financial Data Fetching (yfinance API)
     *   Time Series Prediction with Facebook Prophet
  
-*   **17: Model Validation & Evaluation**
-    *   Airlines Booking Baggage Prediction
-    *   Cross-Validation
-    *   Performance Metrics  
+*   **17-18: Model Validation & Advanced Boosting**
+    *   Airlines Booking Baggage Prediction (Cross-Validation)
+    *   Hospital Readmission Risk Prediction (CatBoost Classifier)
+    *   Handling Categorical Features & Multi-Class Problems
  
 ## Tech Stack
 
 *   **Language:** Python
-*   **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
-*   **Environment:** Google Colab
+*   **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FBProphet, CatBoost 
+*   **Environment:** Google Colab / Kaggle
 
 ## How to Use
 Each folder contains a `.ipynb` notebook. You can open these files directly in Google Colab using the badge at the top of each notebook to reproduce the results.
